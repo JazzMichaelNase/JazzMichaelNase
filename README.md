@@ -2,25 +2,39 @@
 
 Welcome to my GitHub profile! I'm Jazz Michael Nase, a dedicated individual with a passion for programming and the arts. Currently engaged in a journey of continuous learning and freelancing, I am committed to honing my skills and contributing meaningfully to the world of technology.
 
+---
+
 ## 👀 Interests
 - Programming
 - Ambassador Program
 - Arts
 
+---
+
 ## 🌱 Current Endeavors
 I am actively learning and applying my knowledge to real-world projects, navigating the challenges of the industry with a focus on growth and innovation.
 
-## 💞️ Collaboration
-I aspire to collaborate on impactful projects with leading companies in the future. Open to opportunities that align with my skills and aspirations.
+---
 
-## 📫 How to Reach Me
-Connect with me on Twitter: [@JazzMichaelNase](https://twitter.com/JazzMichaelNase). I'm open to discussions, collaborations, and networking.
+## 📚 Experiences
 
-## 😄 Pronouns
-My pronouns are Jass, pronounced as Jazz.
+### 2021 - First-year Computer Science Student
+In my first year, I immersed myself in the world of cryptocurrency. I gained both academic and practical knowledge, taking on an administrative role for projects. I guided members on investment strategies and honed basic editing skills in Canva.
 
-## ⚡ Fun Fact
-I find joy in the simple fact of being alive and approach every day with enthusiasm and a commitment to excellence.
+### 2024 - Third-year Computer Science Student
+Now in 2024, as a third-year student, my programming proficiency has significantly grown. I am the team leader for our thesis and have taken on administrative roles in more significant cryptocurrency projects, particularly those involving real-world assets. Eager for higher-ranking positions, I aim to further expand my knowledge and experience in this dynamic field.
+
+---
+
+## 🚀 Projects and Achievements
+
+### Responsive Hotel Website - Marianne
+I led the development of a responsive hotel website named Marianne. This project involved using HTML, CSS, and JavaScript, connecting it to a MySQL database with PHP Mailer. The successful outcome showcased effective teamwork and technical skills.
+
+### Agriculture Mobile App - FarmBud
+I spearheaded the creation of the agriculture mobile app FarmBud. Developed with Flutter and Dart, the app seamlessly integrates Firebase for efficient data management. Leading a team, we successfully delivered an innovative solution for the agriculture sector.
+
+---
 
 Feel free to explore my GitHub repositories, and let's connect for exciting possibilities!
 
